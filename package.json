@@ -1,0 +1,14 @@
+{
+  "name": "auto-confirm-skill",
+  "version": "1.0.0",
+  "description": "Auto-confirm preference skill - execute actions directly without asking confirmation questions",
+  "main": "SKILL.md",
+  "files": ["SKILL.md", "README.md"],
+  "keywords": ["claude", "claude-code", "qoder", "skill", "auto-confirm", "preferences"],
+  "author": "paskaa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paskaa/auto-confirm-skill"
+  }
+}
