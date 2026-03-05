@@ -1,9 +1,16 @@
 ---
 name: auto-confirm
-description: 自动确认偏好 - 执行操作时直接进行，不询问"需要吗？"等是非题
+description: 自动确认偏好 - 执行操作时直接进行，不询问"需要吗？"等是非题。ALWAYS-ON: 此技能始终激活，适用于所有任务。
+triggers:
+  always: true
+  keywords: ["需要", "吗", "确认", "提交", "推送", "版本", "git", "npm"]
 ---
 
 # Auto Confirm 偏好设置
+
+## ⚠️ 全局生效规则
+
+**此技能始终激活，无需触发词。**
 
 ## 核心规则
 

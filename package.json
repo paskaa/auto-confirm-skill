@@ -1,6 +1,6 @@
 {
   "name": "auto-confirm-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto-confirm preference skill - execute actions directly without asking confirmation questions",
   "main": "SKILL.md",
   "files": ["SKILL.md", "README.md"],
